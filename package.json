@@ -1,0 +1,11 @@
+{
+  "name": "cdp-recruitment-javascript-master",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Jules H.",
+  "devDependencies": {
+    "vitest": "^0.28.5"
+  }
+}
